@@ -1,6 +1,6 @@
 package java_practice_with.tips;
 
-public class Main {
+public class HumanPractice {
     public static void main(String[] args) {
 
         Human man = new Human();

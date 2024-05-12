@@ -3,9 +3,9 @@ package java_practice_with.boj;
 import java.util.Scanner;
 
 public class Boj1001 {
-    
+
     public static void main(String[] args) {
-        
+
         Scanner type1 = new Scanner(System.in);
 
         int a = type1.nextInt();
@@ -13,7 +13,6 @@ public class Boj1001 {
 
         System.out.println(a - b);
 
-    
     }
-    
+
 }
