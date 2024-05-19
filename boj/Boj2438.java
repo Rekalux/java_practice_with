@@ -1,9 +1,9 @@
-package java_practice_with;
+package java_practice_with.boj;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Boj2438 {
+        public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int a = sc.nextInt();
@@ -15,5 +15,4 @@ public class Main {
 
         }
     }
-
 }
