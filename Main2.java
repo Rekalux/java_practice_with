@@ -1,4 +1,4 @@
-package java_practice_with;
+
 
 import java.util.Scanner;
 
@@ -9,15 +9,15 @@ public class Main2 {
         
         int a = sc.nextInt();//n번반복 해서 반성
         
-        // for(int i = 0; i < a ; i++ ) {
-        //     bansung(); 
-        // }
-        int i = 0;
-        while(i < a) {
-            bansung();
-            i++;
+        for(int i = 0; i < a ; i++ ) {
+            bansung(); 
+        }
+        // int i = 0;
+        // while(i < a) {
+        //     bansung();
+        //     i++;
         
-       }
+        //    }
 
 
 

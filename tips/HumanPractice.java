@@ -1,4 +1,4 @@
-package java_practice_with.tips;
+package tips;
 
 public class HumanPractice {
     public static void main(String[] args) {

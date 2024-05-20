@@ -1,4 +1,3 @@
-package java_practice_with.boj;
 
 import java.util.Scanner;
 
